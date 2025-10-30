@@ -57,8 +57,3 @@ Customer-Churn-Dashboard-PowerBI/
 
 ⭐ If you like this project, consider giving it a star on GitHub!
 ```
-
----
-
-Would you like me to also include a **sample dataset description section** (like what columns and data you used for churn prediction)?
-That’ll make the repo look even more data-science-ready.
