@@ -130,7 +130,7 @@ This project:
 
 ---
 
-## 📂 Project 
+## 📂 Project Structure
 
 ```id="structchurn1"
 Customer-Churn-Dashboard/
