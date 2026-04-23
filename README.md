@@ -25,6 +25,11 @@ This dashboard analyzes **employee attrition patterns** and converts them into:
 
 ---
 
+ ## 📷 Dashboard Preview 
+ 
+
+---
+
 ## 🚨 Business Problem
 
 Employee churn leads to:
