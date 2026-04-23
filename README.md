@@ -23,9 +23,6 @@ It visualizes key insights related to employee attrition, income, job satisfacti
 
 ---
 
-## 📷 Dashboard Preview
-![Customer Churn Dashboard](https://github.com/Tanmay1112004/Customer-Churn-Dashboard-PowerBI/blob/main/CUSTOMER%20CHURN%20DASHBOARD/screenshots/Screenshot%202025-10-30%20162307.png)
-
 ---
 
 ## 🎯 Key Insights
